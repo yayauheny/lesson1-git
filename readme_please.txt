@@ -5,4 +5,4 @@ develop -> first commit -> second commit -> third commit
 
 
 
-feature/futureRelease
+feature/futureRelease -> feature/secondCommit
